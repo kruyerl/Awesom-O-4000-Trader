@@ -2,10 +2,10 @@
 
 # Objective
 develope a trading robot, that will be able to do the following:
-1- Stream real time "quotes"
-2- Place "enter and exit positions"
-3- Manage account data ("orders, poitions & activity")
-4- Calculate different "technical indicators"
+- Stream real time "quotes"
+- Place "enter and exit positions"
+- Manage account data ("orders, poitions & activity")
+- Calculate different "technical indicators"
 
 # Goals
 - Learn python
